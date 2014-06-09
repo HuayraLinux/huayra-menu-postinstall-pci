@@ -1,0 +1,14 @@
+Source: huayra-menu-postinstall-pci
+Section: system
+Priority: extra
+Maintainer: Miguel Angel Garcia <miguel.garcia@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://huayra.conectarigualdad.gob.ar
+
+Package: huayra-menu-postinstall-pci
+Architecture: all
+Depends: ${misc:Depends}
+Description: Configuraciones de menu para netbooks del PCI con Huayra 2 recién instalado
+ Este paquete contiene scripts para configurar el menuk y dejarlo lista para el uso escolar.
+

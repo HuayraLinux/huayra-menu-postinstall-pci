@@ -1,0 +1,10 @@
+#! /bin/sh
+set -e
+
+if [ "$1" = "configure" ]; then
+
+  run-parts --exit-on-error --report /usr/share/huayra-menu-postinstall-pci/postinstall.d
+
+fi
+
+#DEBHELPER#

@@ -1,0 +1,2 @@
+postinstall.d/* usr/share/huayra-menu-postinstall-pci/postinstall.d/
+debian/alumno/.local/* usr/share/huayra-menu-postinstall-pci/alumno/.local/
