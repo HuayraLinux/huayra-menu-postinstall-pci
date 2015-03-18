@@ -1,0 +1,106 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+<Menu>
+	<Name>Applications</Name>
+	<Menu>
+		<Name>Education</Name>
+		<Menu>
+			<Name>Ciencias Naturales</Name>
+			<Directory>huayra-naturales.directory</Directory>
+			<Include>
+				<Filename>epoptes-client-config.desktop</Filename>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Ciencias Sociales</Name>
+			<Directory>huayra-sociables.directory</Directory>
+			<Include>
+				<Filename>epoptes-client-config.desktop</Filename>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Herramientas de Diagramación</Name>
+			<Directory>huayra-diagramacion.directory</Directory>
+			<Include>
+				<Filename>epoptes.desktop</Filename>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Herramientas de Geoocalización</Name>
+			<Directory>huayra-geocalizacion.directory</Directory>
+			<Include>
+				<Filename>epoptes.desktop</Filename>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Herramientas de Impresion 3D</Name>
+			<Directory>huayra-impresion-3d.directory</Directory>
+			<Include>
+				<Filename>epoptes.desktop</Filename>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Internet y vos</Name>
+			<Directory>huayra-internet-y-vos.directory</Directory>
+			<Include>
+				<Filename>epoptes.desktop</Filename>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Lengua</Name>
+			<Directory>huayra-lengua.directory</Directory>
+			<Include>
+				<Filename>epoptes.desktop</Filename>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Lengua Nacional y Extranjera</Name>
+			<Directory>huayra-lengua-nacional-extranjera.directory</Directory>
+			<Include>
+				<Filename>epoptes.desktop</Filename>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>La seguridad social y vos</Name>
+			<Directory>huayra-seguridad-social-y-vos.directory</Directory>
+			<Include>
+				<Filename>epoptes.desktop</Filename>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Matemática</Name>
+			<Directory>huayra-matematica.directory</Directory>
+			<Include>
+				<Filename>epoptes-client-config.desktop</Filename>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Inglés</Name>
+			<Directory>huayra-ingles.directory</Directory>
+			<Include>
+				<Filename>epoptes-client-config.desktop</Filename>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Orientacion Vocacional</Name>
+			<Directory>huayra-orientacion-vocacional.directory</Directory>
+			<Include>
+				<Filename>epoptes-client-config.desktop</Filename>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Salud</Name>
+			<Directory>huayra-salud.directory</Directory>
+			<Include>
+				<Filename>epoptes-client-config.desktop</Filename>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Software de Administracion de Clases</Name>
+			<Directory>huayra-administracion-clases.directory</Directory>
+			<Include>
+				<Filename>epoptes.desktop</Filename>
+			</Include>
+		</Menu>
+	</Menu>
+</Menu>
