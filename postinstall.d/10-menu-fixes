@@ -1,6 +1,0 @@
-#!/bin/bash
-
-cp -r /usr/share/huayra-menu-postinstall-pci/alumno/.local/* /home/alumno/.local
-chown -R alumno:alumno /home/alumno/.local/share/applications
-cp -r /usr/share/huayra-menu-postinstall-pci/alumno/.local/* /etc/skel/.local
-
