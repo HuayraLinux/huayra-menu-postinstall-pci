@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Dar Pie
+Exec=xdg-open http://www.educ.ar/sitios/educar/seccion/?ir=xdarpie
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-vocacional
+OnlyShowIn=MATE;
+Icon=web-browser
+

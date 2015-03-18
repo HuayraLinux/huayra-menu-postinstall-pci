@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Lecturas grabadas
+Exec=xdg-open http://www.educ.ar/sitios/educar/seccion/?ir=audiolibros
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-lengua
+OnlyShowIn=MATE;
+Icon=web-browser
+

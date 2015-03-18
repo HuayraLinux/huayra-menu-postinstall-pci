@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Efemérides
+Exec=xdg-open http://www.educ.ar/sitios/educar/recursos/?seccion=efemerides&referente=docentes
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-sociales
+OnlyShowIn=MATE;
+Icon=web-browser
+

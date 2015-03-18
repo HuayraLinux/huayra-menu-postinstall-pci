@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Mapoteca (Nacchhhhooooo!!!!)
+Exec=xgd open Correrrrgirr donde apunta
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-sociales
+OnlyShowIn=MATE;
+Icon=web-browser
+

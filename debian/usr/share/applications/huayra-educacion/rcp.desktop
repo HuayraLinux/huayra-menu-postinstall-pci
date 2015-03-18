@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=RCP
+Exec=xdg-open http://www.rcpenlasescuelas.educ.ar
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-salud
+OnlyShowIn=MATE;
+Icon=web-browser
+

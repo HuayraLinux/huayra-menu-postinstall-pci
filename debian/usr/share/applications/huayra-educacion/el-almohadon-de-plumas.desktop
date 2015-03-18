@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=El almohadón de plumas (Nacchhhhooooo!!!!)
+Exec=xgd open Correrrrgirr donde apunta
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-lengua
+OnlyShowIn=MATE;
+Icon=web-browser
+
