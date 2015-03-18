@@ -1,3 +1,9 @@
+huayra-menu-postinstall-pci (0.2) torbellino; urgency=medium
+
+  * Iniciando menu de imagen 2015
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Wed, 18 Mar 2015 17:03:50 -0300
+
 huayra-menu-postinstall-pci (0.1) unstable; urgency=low
 
   * Menu para imagen junio 2014
