@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=xdg-open /media/RERCURSOS/Cuento_digital_El_Almohadon_de_plumas_offline/index.html
+Name=Almohadón de plumas
+Icon=/media/RECURSOS/iconos/Windows/ico-almohadon-plumas.jpg

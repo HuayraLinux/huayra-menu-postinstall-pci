@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[es_AR]=/media/RECURSOS/iconos/Windows/ico-voces-bicentenario.jpg
+Exec=chromium /media/RECURSOS/MultiplesVocesparaelBicentenario/voces_local2/index.html
+Name[es_AR]=Voces del Bicentenario
+Name=Voces del Bicentenario
+Icon=/media/RECURSOS/iconos/Windows/ico-voces-bicentenario.jpg
