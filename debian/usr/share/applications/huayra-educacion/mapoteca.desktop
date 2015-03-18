@@ -1,10 +1,8 @@
 [Desktop Entry]
-Name=Mapoteca (Nacchhhhooooo!!!!)
-Exec=xgd open Correrrrgirr donde apunta
-Terminal=false
+Version=1.0
 Type=Application
-StartupNotify=false
+Terminal=false
+Exec=xdg-open /media/RECURSOS/Mapoteca/.files/index.html
+Name=Mapoteca
+Icon=/media/RECURSOS/iconos/Windows/ico-mapoteca.jpg
 Categories=huayra-sociales
-OnlyShowIn=MATE;
-Icon=web-browser
-

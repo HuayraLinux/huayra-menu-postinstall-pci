@@ -5,3 +5,4 @@ Terminal=false
 Exec=xdg-open /media/RECURSOS/AprenderIngles/INDEX.HTM
 Name=Aprender Ingles
 Icon=/media/RECURSOS/iconos/Windows/ico-just-english.jpg
+Categories=huayra-ingles

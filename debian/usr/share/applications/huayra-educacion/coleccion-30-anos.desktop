@@ -6,3 +6,4 @@ Terminal=false
 Exec=xdg-open /media/RECURSOS/Coleccion30-aniosdemocracia/Datos/coleccion30anios.html
 Name=Colección 30 años
 Icon=/media/RECURSOS/iconos/Windows/ico-coleccion-30-años.jpg
+Categories=huayra-sociales
