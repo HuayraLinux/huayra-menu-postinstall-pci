@@ -4,7 +4,7 @@ Exec=xdg-open "/media/RECURSOS/videos/informekliksberg/capitulo_22 - educación,
 Terminal=false
 Type=Application
 StartupNotify=false
-Categories=huayra-educar-videos-informeskliksberg
+Categories=huayra-educar-videos-informekliksberg
 OnlyShowIn=MATE;
 Icon=vlc
 

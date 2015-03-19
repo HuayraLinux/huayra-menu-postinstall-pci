@@ -1,3 +1,9 @@
+huayra-menu-postinstall-pci (0.7) torbellino; urgency=medium
+
+  * fix categorias e iconos 
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Thu, 19 Mar 2015 14:40:31 -0300
+
 huayra-menu-postinstall-pci (0.6) torbellino; urgency=medium
 
   * correccion de urls

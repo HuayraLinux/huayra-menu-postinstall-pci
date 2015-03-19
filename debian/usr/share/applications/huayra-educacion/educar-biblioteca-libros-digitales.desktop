@@ -6,5 +6,5 @@ Type=Application
 StartupNotify=false
 Categories=huayra-educar
 OnlyShowIn=MATE;
-Icon=/usr/share/pixmaps/educar/ico-biblioteca-digital.jpg
+Icon=/usr/share/pixmaps/educar/ico-bibioteca-digital.jpg
 
