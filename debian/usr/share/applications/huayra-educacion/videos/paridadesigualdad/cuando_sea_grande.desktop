@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Cuando sea grande
+Exec=xdg-open "/media/RECURSOS/videos/paridadesigualdad/cuando sea grande.wmv"
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-educar-videos-paridadesigualdad
+OnlyShowIn=MATE;
+Icon=vlc
+

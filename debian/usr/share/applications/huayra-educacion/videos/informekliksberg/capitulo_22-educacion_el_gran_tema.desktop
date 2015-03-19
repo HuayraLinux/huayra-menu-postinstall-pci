@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Educación, el gran tema
+Exec=xdg-open "/media/RECURSOS/videos/informekliksberg/capitulo_22 - educación, el gran tema.avi"
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-educar-videos-informeskliksberg
+OnlyShowIn=MATE;
+Icon=vlc
+

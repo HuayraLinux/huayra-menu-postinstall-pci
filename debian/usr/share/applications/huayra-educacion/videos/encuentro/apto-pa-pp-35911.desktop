@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Alterados por Pi
+Exec=xdg-open /media/RECURSOS/videos/encuentro/apto-pa-pp-35911.mp4
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-educar-videos-encuentro
+OnlyShowIn=MATE;
+Icon=vlc

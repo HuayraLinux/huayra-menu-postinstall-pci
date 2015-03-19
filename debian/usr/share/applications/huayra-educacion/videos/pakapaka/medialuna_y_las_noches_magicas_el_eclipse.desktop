@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Medialuna y las noches mágicas. El Eclipse
+Exec=xdg-open "/media/RECURSOS/videos/pakapaka/medialuna y las noches mágicas. el eclipse.mp4"
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-educar-videos-pakapaka
+OnlyShowIn=MATE;
+Icon=vlc
+

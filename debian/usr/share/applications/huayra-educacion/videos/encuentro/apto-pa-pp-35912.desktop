@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Los partidos políticos - UCR
+Exec=xdg-open /media/RECURSOS/videos/encuentro/apto-pa-pp-35912.mp4
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-educar-videos-encuentro
+OnlyShowIn=MATE;
+Icon=vlc

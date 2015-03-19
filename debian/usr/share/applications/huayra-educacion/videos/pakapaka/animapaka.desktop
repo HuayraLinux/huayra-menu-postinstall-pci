@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Animapaka 1
+Exec=xdg-open "/media/RECURSOS/videos/pakapaka/animapaka.mp4"
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-educar-videos-pakapaka
+OnlyShowIn=MATE;
+Icon=vlc
+

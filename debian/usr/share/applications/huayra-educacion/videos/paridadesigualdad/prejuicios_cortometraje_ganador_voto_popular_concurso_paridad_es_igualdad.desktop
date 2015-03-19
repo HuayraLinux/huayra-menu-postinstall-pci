@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Prejuicios cortometraje ganador voto popular concurso 'paridad es igualdad'
+Exec=xdg-open "/media/RECURSOS/videos/paridadesigualdad/prejuicios cortometraje ganador voto popular   concurso 'paridad es igualdad'.avi"
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-educar-videos-paridadesigualdad
+OnlyShowIn=MATE;
+Icon=vlc
+

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Cuida tu Net
+Exec=xdg-open /media/RECURSOS/videos/cuida-tu-net.flv
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-educar-videos
+OnlyShowIn=MATE;
+Icon=vlc
+

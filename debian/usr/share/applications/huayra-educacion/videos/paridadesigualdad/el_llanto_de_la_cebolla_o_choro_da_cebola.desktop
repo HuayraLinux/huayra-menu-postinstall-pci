@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=El llanto de la cebolla, o choro da cebola
+Exec=xdg-open "/media/RECURSOS/videos/paridadesigualdad/el llanto de la cebolla   o choro da cebola.wmv"
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-educar-videos-paridadesigualdad
+OnlyShowIn=MATE;
+Icon=vlc
+
