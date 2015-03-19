@@ -25,11 +25,11 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1914"
-     inkscape:window-height="1031"
+     inkscape:window-width="1913"
+     inkscape:window-height="1026"
      id="namedview542"
      showgrid="false"
-     inkscape:zoom="2.6237002"
+     inkscape:zoom="0.9276181"
      inkscape:cx="-53.63487"
      inkscape:cy="19.529423"
      inkscape:window-x="0"
@@ -2599,7 +2599,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2667,22 +2667,4 @@
      y="66.484436"
      ry="1.341132"
      transform="matrix(-0.70651457,0.70769849,0.70769849,0.70651457,0,0)" />
-  <text
-     xml:space="preserve"
-     style="font-size:38.2899971px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Amatic;-inkscape-font-specification:Amatic Bold"
-     x="-18.055304"
-     y="175.88126"
-     id="text4523"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan4525"
-       x="-18.055304"
-       y="175.88126"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans Bold">x</tspan></text>
-  <path
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.75977296px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m -48.044446,150.53434 18.32811,25.99701 8.469611,-36.11866 36.552964,-0.0474 -0.04655,-4.59599 -40.680746,0.14226 -6.099467,31.12734 -11.16971,-16.65596 z"
-     id="path4527"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccc" />
 </svg>
