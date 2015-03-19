@@ -6,6 +6,41 @@
 		<Name>Recuros portal Educ.ar</Name>
 		<Directory>huayra-portal-educar.directory</Directory>
 		<Menu>
+			<Name>Videos</Name>
+			<Directory>huayra-portal-educar-videos.directory</Directory>
+			<Include>
+				<Category>huayra-educar-videos</Category>
+			</Include>
+			<Menu>
+				<Name>Pakapaka</Name>
+				<Directory>huayra-portal-educar-videos-pakapaka.directory</Directory>
+				<Include>
+					<Category>huayra-educar-videos-pakapaka</Category>
+				</Include>
+			</Menu>
+			<Menu>
+				<Name>Encuentro</Name>
+				<Directory>huayra-portal-educar-videos-encuentro.directory</Directory>
+				<Include>
+					<Category>huayra-educar-videos-encuentro</Category>
+				</Include>
+			</Menu>
+			<Menu>
+				<Name>Informe Kliksberg</Name>
+				<Directory>huayra-portal-educar-videos-informekliksberg.directory</Directory>
+				<Include>
+					<Category>huayra-educar-videos-informekliksberg</Category>
+				</Include>
+			</Menu>
+			<Menu>
+				<Name>Paridades Igualdad</Name>
+				<Directory>huayra-portal-educar-videos-paridadesigualdad.directory</Directory>
+				<Include>
+					<Category>huayra-educar-videos-paridadesigualdad</Category>
+				</Include>
+			</Menu>
+		</Menu>
+		<Menu>
 			<Name>Ciencias Naturales</Name>
 			<Directory>huayra-naturales.directory</Directory>
 			<Include>
