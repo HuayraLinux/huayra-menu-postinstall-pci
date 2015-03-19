@@ -2,7 +2,7 @@
 Version=1.0
 Type=Application
 Terminal=false
-Exec=chromium --allow-file-access-from-files /media/RERCURSOS/Cuento_digital_El_Almohadon_de_plumas_offline/index.html
+Exec=chromium --allow-file-access-from-files /media/RECURSOS/Cuento_digital_El_Almohadon_de_plumas_offline/index.html
 Name=Almohadón de plumas
 Icon=/usr/share/pixmaps/educar/ico-almohadon-plumas.jpg
 Categories=huayra-lengua

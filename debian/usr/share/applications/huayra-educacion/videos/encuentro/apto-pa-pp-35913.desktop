@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Los partidos políticos - Peronismo
-Exec=xdg-open /media/RECURSOS/videos/encuentro/apto-pa-pp-35913.mp4
+Exec=xdg-open "/media/RECURSOS/videos/encuentro/apto pa-pp-35913.mp4"
 Terminal=false
 Type=Application
 StartupNotify=false
