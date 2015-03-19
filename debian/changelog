@@ -1,3 +1,9 @@
+huayra-menu-postinstall-pci (0.3) torbellino; urgency=medium
+
+  * Agregando contenido videos y estructura de menu de links 
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Thu, 19 Mar 2015 12:41:25 -0300
+
 huayra-menu-postinstall-pci (0.2) torbellino; urgency=medium
 
   * Iniciando menu de imagen 2015
