@@ -6,5 +6,5 @@ Type=Application
 StartupNotify=false
 Categories=huayra-salud
 OnlyShowIn=MATE;
-Icon=web-browser
+Icon=/usr/share/pixmaps/educar/ico-rcp.jpg
 

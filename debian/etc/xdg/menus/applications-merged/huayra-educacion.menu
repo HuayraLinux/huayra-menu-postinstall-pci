@@ -3,17 +3,13 @@
 <Menu>
 	<Name>Applications</Name>
 	<Menu>
-		<Name>Education</Name>
+		<Name>Recuros portal Educ.ar</Name>
+		<Directory>huayra-portal-educar.directory</Directory>
 		<Menu>
 			<Name>Ciencias Naturales</Name>
 			<Directory>huayra-naturales.directory</Directory>
 			<Include>
 				<Category>huayra-naturales</Category>
-				<Filename>avogadro.desktop</Filename>
-				<Filename>bkchem.desktop</Filename>
-				<Filename>celestia.desktop</Filename>
-				<Filename>stellarium.desktop</Filename>
-				<Filename>jmol.desktop</Filename>
 			</Include>
 		</Menu>
 		<Menu>
@@ -28,7 +24,6 @@
 			<Directory>huayra-diagramacion.directory</Directory>
 			<Include>
 				<Category>huayra-diagramacion</Category>
-				<Filename>freemind.desktop</Filename>
 			</Include>
 		</Menu>
 		<Menu>
@@ -36,8 +31,6 @@
 			<Directory>huayra-geocalizacion.directory</Directory>
 			<Include>
 				<Category>huayra-geolocalizacion</Category>
-				<Filename>SoPI.desktop</Filename>
-				<Filename>Programa2Mp.desktop</Filename>
 			</Include>
 		</Menu>
 		<Menu>
@@ -45,7 +38,6 @@
 			<Directory>huayra-impresion-3d.directory</Directory>
 			<Include>
 				<Category>huayra-impresion-3d</Category>
-				<Filename>epoptes.desktop</Filename>
 			</Include>
 		</Menu>
 		<Menu>
@@ -53,7 +45,6 @@
 			<Directory>huayra-internet-y-vos.directory</Directory>
 			<Include>
 				<Category>huayra-internet-y-vos</Category>
-				<Filename>epoptes.desktop</Filename>
 			</Include>
 		</Menu>
 		<Menu>
@@ -61,7 +52,6 @@
 			<Directory>huayra-lengua.directory</Directory>
 			<Include>
 				<Category>huayra-lengua</Category>
-				<Filename>calibre-gui.desktop</Filename>
 			</Include>
 		</Menu>
 		<Menu>
@@ -69,7 +59,6 @@
 			<Directory>huayra-lengua-nacional-extranjera.directory</Directory>
 			<Include>
 				<Category>huayra-lengua-nacional-extranjera</Category>
-				<Filename>epoptes.desktop</Filename>
 			</Include>
 		</Menu>
 		<Menu>
@@ -77,7 +66,6 @@
 			<Directory>huayra-seguridad-social-y-vos.directory</Directory>
 			<Include>
 				<Category>huayra-seguridad-social</Category>
-				<Filename>epoptes.desktop</Filename>
 			</Include>
 		</Menu>
 		<Menu>
@@ -85,12 +73,6 @@
 			<Directory>huayra-matematica.directory</Directory>
 			<Include>
 				<Category>huayra-matematica</Category>
-				<Filename>scilab-adv-cli.desktop</Filename>
-				<Filename>scilab-cli.desktop</Filename>
-				<Filename>scilab.desktop</Filename>
-				<Filename>euler.desktop</Filename>
-				<Filename>geogebra.desktop</Filename>
-
 			</Include>
 		</Menu>
 		<Menu>
@@ -108,14 +90,6 @@
 			</Include>
 		</Menu>
 		<Menu>
-			<Name>Portal Educar</Name>
-			<Directory>huayra-portal-educar.directory</Directory>
-			<Include>
-				<Category>huayra-portal-educar</Category>
-				<Filename>epoptes.desktop</Filename>
-			</Include>
-		</Menu>
-		<Menu>
 			<Name>Salud</Name>
 			<Directory>huayra-salud.directory</Directory>
 			<Include>
@@ -127,8 +101,6 @@
 			<Directory>huayra-administracion-clases.directory</Directory>
 			<Include>
 				<Category>huayra-administracion</Category>
-				<Filename>epoptes.desktop</Filename>
-				<Filename>epoptes-client-config.desktop</Filename>
 			</Include>
 		</Menu>
 	</Menu>
