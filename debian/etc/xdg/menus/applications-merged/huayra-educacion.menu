@@ -3,10 +3,10 @@
 <Menu>
 	<Name>Applications</Name>
 	<Menu>
-		<Name>Recuros portal Educ.ar</Name>
+		<Name>Recursos portal Educ.ar</Name>
 		<Directory>huayra-portal-educar.directory</Directory>
 		<Menu>
-			<Name>Videos</Name>
+			<Name>Vídeos</Name>
 			<Directory>huayra-portal-educar-videos.directory</Directory>
 			<Include>
 				<Category>huayra-educar-videos</Category>
@@ -49,7 +49,7 @@
 		</Menu>
 		<Menu>
 			<Name>Ciencias Sociales</Name>
-			<Directory>huayra-sociables.directory</Directory>
+			<Directory>huayra-sociales.directory</Directory>
 			<Include>
 				<Category>huayra-sociales</Category>
 			</Include>
@@ -62,14 +62,14 @@
 			</Include>
 		</Menu>
 		<Menu>
-			<Name>Herramientas de Geocalización</Name>
+			<Name>Herramientas de Geolocalización</Name>
 			<Directory>huayra-geocalizacion.directory</Directory>
 			<Include>
 				<Category>huayra-geolocalizacion</Category>
 			</Include>
 		</Menu>
 		<Menu>
-			<Name>Herramientas de Impresion 3D</Name>
+			<Name>Herramientas de Impresión 3D</Name>
 			<Directory>huayra-impresion-3d.directory</Directory>
 			<Include>
 				<Category>huayra-impresion-3d</Category>
@@ -118,7 +118,7 @@
 			</Include>
 		</Menu>
 		<Menu>
-			<Name>Orientacion Vocacional</Name>
+			<Name>Orientación Vocacional</Name>
 			<Directory>huayra-orientacion-vocacional.directory</Directory>
 			<Include>
 				<Category>huayra-vocacional</Category>
@@ -132,7 +132,7 @@
 			</Include>
 		</Menu>
 		<Menu>
-			<Name>Software de Administracion de Clases</Name>
+			<Name>Software de Administración de Clases</Name>
 			<Directory>huayra-administracion-clases.directory</Directory>
 			<Include>
 				<Category>huayra-administracion</Category>
