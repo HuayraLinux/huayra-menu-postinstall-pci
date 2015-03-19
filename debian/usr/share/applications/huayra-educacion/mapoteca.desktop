@@ -4,5 +4,5 @@ Type=Application
 Terminal=false
 Exec=xdg-open /media/RECURSOS/Mapoteca/.files/index.html
 Name=Mapoteca
-Icon=/media/RECURSOS/iconos/Windows/ico-mapoteca.jpg
+Icon=/usr/share/pixmaps/educar/ico-mapoteca.jpg
 Categories=huayra-sociales
