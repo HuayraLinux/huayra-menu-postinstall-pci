@@ -5,5 +5,5 @@ Type=Application
 Terminal=false
 Exec=xdg-open /media/RECURSOS/MultiplesVocesparaelBicentenario/voces_local2/index.html
 Name=Voces del Bicentenario
-Icon=/media/RECURSOS/iconos/Windows/ico-voces-bicentenario.jpg
+Icon=/usr/share/pixmaps/educar/ico-voces-bicentenario.jpg
 Categories=huayra-sociales
