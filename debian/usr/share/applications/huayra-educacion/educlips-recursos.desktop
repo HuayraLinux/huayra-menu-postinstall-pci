@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=EduClips - Recursos educ.ar
+Exec=xdg-open http://www.educ.ar/sitios/educar/recursos/ver?id=123024
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-educar
+OnlyShowIn=MATE;
+Icon=/usr/share/pixmaps/educar/ico-edu-clips.jpg
+

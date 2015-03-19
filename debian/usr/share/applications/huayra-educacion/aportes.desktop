@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Aportes para educ.ar
+Exec=xdg-open http://www.aportes.educ.ar/
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-educar
+OnlyShowIn=MATE;
+Icon=web-browser
+

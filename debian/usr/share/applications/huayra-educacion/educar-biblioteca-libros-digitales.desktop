@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Educ.ar - Biblioteca de Libros Digitales
+Exec=xdg-open http://bibliotecadigital.educ.ar
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-educar
+OnlyShowIn=MATE;
+Icon=/usr/share/pixmaps/educar/ico-biblioteca-digital.jpg
+

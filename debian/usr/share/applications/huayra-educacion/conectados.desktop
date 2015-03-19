@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Conectados
+Exec=xdg-open http://www.conectados.gob.ar
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=huayra-educar
+OnlyShowIn=MATE;
+Icon=/usr/share/pixmaps/educar/ico-conectados.jpg
+
