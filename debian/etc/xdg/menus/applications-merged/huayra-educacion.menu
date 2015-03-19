@@ -6,7 +6,7 @@
 		<Name>Recursos portal Educ.ar</Name>
 		<Directory>huayra-portal-educar.directory</Directory>
 		<Menu>
-			<Name>Vídeos</Name>
+			<Name>Videos</Name>
 			<Directory>huayra-portal-educar-videos.directory</Directory>
 			<Include>
 				<Category>huayra-educar-videos</Category>
