@@ -1,10 +1,9 @@
 [Desktop Entry]
-Name=Efemérides
+Name=Efemérides escolares
 Exec=xdg-open http://www.educ.ar/sitios/educar/recursos/?seccion=efemerides&referente=docentes
 Terminal=false
 Type=Application
 StartupNotify=false
 Categories=huayra-sociales
 OnlyShowIn=MATE;
-Icon=web-browser
-
+Icon=/usr/share/pixmaps/educar/ico-efemerides.jpg
