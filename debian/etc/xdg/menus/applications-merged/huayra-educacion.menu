@@ -18,6 +18,7 @@
 				<Filename>gchemcalc-0.14.desktop</Filename>
 				<Filename>gchemtable-0.14.desktop</Filename>
 				<Filename>gspectrum-0.14.desktop</Filename>
+				<Filename>gchem3d-0.14.desktop</Filename>
 			</Include>
 		</Menu>
 		<Menu>
@@ -91,6 +92,7 @@
 			<Filename>gchemcalc-0.14.desktop</Filename>
 			<Filename>gchemtable-0.14.desktop</Filename>
 			<Filename>gspectrum-0.14.desktop</Filename>
+			<Filename>gchem3d-0.14.desktop</Filename>
 		</Exclude>
 	</Menu>
 </Menu>
