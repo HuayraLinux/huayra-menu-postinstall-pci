@@ -1,0 +1,145 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+<Menu>
+	<Name>Applications</Name>
+	<Menu>
+		<Name>Recursos portal Educ.ar</Name>
+		<Directory>huayra-portal-educar.directory</Directory>
+		<Include>
+			<Category>huayra-educar</Category>
+		</Include>
+		<Menu>
+			<Name>Videos</Name>
+			<Directory>huayra-portal-educar-videos.directory</Directory>
+			<Include>
+				<Category>huayra-educar-videos</Category>
+			</Include>
+			<Menu>
+				<Name>Pakapaka</Name>
+				<Directory>huayra-portal-educar-videos-pakapaka.directory</Directory>
+				<Include>
+					<Category>huayra-educar-videos-pakapaka</Category>
+				</Include>
+			</Menu>
+			<Menu>
+				<Name>Encuentro</Name>
+				<Directory>huayra-portal-educar-videos-encuentro.directory</Directory>
+				<Include>
+					<Category>huayra-educar-videos-encuentro</Category>
+				</Include>
+			</Menu>
+			<Menu>
+				<Name>Informe Kliksberg</Name>
+				<Directory>huayra-portal-educar-videos-informekliksberg.directory</Directory>
+				<Include>
+					<Category>huayra-educar-videos-informekliksberg</Category>
+				</Include>
+			</Menu>
+			<Menu>
+				<Name>Paridades Igualdad</Name>
+				<Directory>huayra-portal-educar-videos-paridadesigualdad.directory</Directory>
+				<Include>
+					<Category>huayra-educar-videos-paridadesigualdad</Category>
+				</Include>
+			</Menu>
+		</Menu>
+		<Menu>
+			<Name>Ciencias Naturales</Name>
+			<Directory>huayra-naturales.directory</Directory>
+			<Include>
+				<Category>huayra-naturales</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Ciencias Sociales</Name>
+			<Directory>huayra-sociales.directory</Directory>
+			<Include>
+				<Category>huayra-sociales</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Herramientas de Diagramación</Name>
+			<Directory>huayra-diagramacion.directory</Directory>
+			<Include>
+				<Category>huayra-diagramacion</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Herramientas de Geolocalización</Name>
+			<Directory>huayra-geocalizacion.directory</Directory>
+			<Include>
+				<Category>huayra-geolocalizacion</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Herramientas de Impresión 3D</Name>
+			<Directory>huayra-impresion-3d.directory</Directory>
+			<Include>
+				<Category>huayra-impresion-3d</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Internet y vos</Name>
+			<Directory>huayra-internet-y-vos.directory</Directory>
+			<Include>
+				<Category>huayra-internet-y-vos</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Lengua</Name>
+			<Directory>huayra-lengua.directory</Directory>
+			<Include>
+				<Category>huayra-lengua</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Lengua Nacional y Extranjera</Name>
+			<Directory>huayra-lengua-nacional-extranjera.directory</Directory>
+			<Include>
+				<Category>huayra-lengua-nacional-extranjera</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>La seguridad social y vos</Name>
+			<Directory>huayra-seguridad-social-y-vos.directory</Directory>
+			<Include>
+				<Category>huayra-seguridad-social</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Matemática</Name>
+			<Directory>huayra-matematica.directory</Directory>
+			<Include>
+				<Category>huayra-matematica</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Inglés</Name>
+			<Directory>huayra-ingles.directory</Directory>
+			<Include>
+				<Category>huayra-ingles</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Orientación Vocacional</Name>
+			<Directory>huayra-orientacion-vocacional.directory</Directory>
+			<Include>
+				<Category>huayra-vocacional</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Salud</Name>
+			<Directory>huayra-salud.directory</Directory>
+			<Include>
+				<Category>huayra-salud</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Software de Administración de Clases</Name>
+			<Directory>huayra-administracion-clases.directory</Directory>
+			<Include>
+				<Category>huayra-administracion</Category>
+			</Include>
+		</Menu>
+	</Menu>
+</Menu>
