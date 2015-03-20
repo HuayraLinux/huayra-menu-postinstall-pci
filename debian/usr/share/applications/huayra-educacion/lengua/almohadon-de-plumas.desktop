@@ -3,6 +3,6 @@ Version=1.0
 Type=Application
 Terminal=false
 Exec=xdg-open http://www.educ.ar/sitios/educar/seccion/?ir=almohadon_plumas&referente=estudiantes
-Name=Almohadón de plumas (Sin conexión)
+Name=Almohadón de plumas
 Icon=/usr/share/pixmaps/educar/ico-almohadon-plumas.jpg
 Categories=huayra-lengua
