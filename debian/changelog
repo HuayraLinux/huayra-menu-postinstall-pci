@@ -1,3 +1,9 @@
+huayra-menu-postinstall-pci (0.9) torbellino; urgency=medium
+
+  * correccion almoahdon e icono de educar
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Fri, 20 Mar 2015 11:55:05 -0300
+
 huayra-menu-postinstall-pci (0.8) torbellino; urgency=medium
 
   * Correcciones de nombres y categorías (educar)
