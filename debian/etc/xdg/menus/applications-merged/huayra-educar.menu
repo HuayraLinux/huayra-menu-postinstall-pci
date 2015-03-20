@@ -24,15 +24,15 @@
 			<Menu>
 				<Name>Encuentro</Name>
 				<Directory>huayra-portal-educar-videos-encuentro.directory</Directory>
+				<Menu>
+					<Name>Informe Kliksberg</Name>
+					<Directory>huayra-portal-educar-videos-informekliksberg.directory</Directory>
+					<Include>
+						<Category>huayra-educar-videos-informekliksberg</Category>
+					</Include>
+				</Menu>
 				<Include>
 					<Category>huayra-educar-videos-encuentro</Category>
-				</Include>
-			</Menu>
-			<Menu>
-				<Name>Informe Kliksberg</Name>
-				<Directory>huayra-portal-educar-videos-informekliksberg.directory</Directory>
-				<Include>
-					<Category>huayra-educar-videos-informekliksberg</Category>
 				</Include>
 			</Menu>
 			<Menu>
