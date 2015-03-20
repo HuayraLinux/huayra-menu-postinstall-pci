@@ -3,7 +3,7 @@
 Version=1.0
 Type=Application
 Terminal=false
-Exec=xdg-open http://vocesbicentenario.educ.ar/
-Name=Voces del Bicentenario
+Exec=xdg-open /media/RECURSOS/MultiplesVocesparaelBicentenario/voces_local2/index.html
+Name=Voces del Bicentenario (Sin conexión)
 Icon=/usr/share/pixmaps/educar/ico-voces-bicentenario.jpg
 Categories=huayra-sociales

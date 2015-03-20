@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Zamba en Yapeyú parte 3
-Exec=xdg-open "/media/RECURSOS/videos/pakapaka/zamba en yapeyú parte 3.mp4"
-Terminal=false
-Type=Application
-StartupNotify=false
-Categories=huayra-educar-videos-pakapaka
-OnlyShowIn=MATE;
-Icon=vlc
