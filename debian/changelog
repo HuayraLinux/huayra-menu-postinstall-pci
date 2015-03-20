@@ -1,3 +1,10 @@
+huayra-menu-postinstall-pci (0.10) UNRELEASED; urgency=medium
+
+  * correcciones varias
+  * iconos nuevos
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Fri, 20 Mar 2015 14:06:14 -0300
+
 huayra-menu-postinstall-pci (0.9) torbellino; urgency=medium
 
   * correccion almoahdon e icono de educar
