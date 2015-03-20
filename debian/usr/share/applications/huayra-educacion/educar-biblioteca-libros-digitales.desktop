@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Educ.ar - Biblioteca de Libros Digitales
+Name=Biblioteca de Libros Digitales
 Exec=xdg-open http://bibliotecadigital.educ.ar
 Terminal=false
 Type=Application

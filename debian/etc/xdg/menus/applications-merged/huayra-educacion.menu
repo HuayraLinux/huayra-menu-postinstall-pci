@@ -15,6 +15,9 @@
 				<Filename>celestia.desktop</Filename>
 				<Filename>stellarium.desktop</Filename>
 				<Filename>jmol.desktop</Filename>
+				<Filename>gchemcalc-0.14.desktop</Filename>
+				<Filename>gchemtable-0.14.desktop</Filename>
+				<Filename>gspectrum-0.14.desktop</Filename>
 			</Include>
 		</Menu>
 		<Menu>
@@ -28,6 +31,10 @@
 		<Menu>
 			<Name>Herramientas de Geolocalización</Name>
 			<Directory>huayra-geocalizacion.directory</Directory>
+			<Include>
+				<Filename>josm.desktop</Filename>
+				<Filename>Programa2Mp.desktop</Filename>
+			</Include>
 		</Menu>
 		<Menu>
 			<Name>Herramientas de Impresión 3D</Name>
@@ -36,10 +43,21 @@
 		<Menu>
 			<Name>Lengua</Name>
 			<Directory>huayra-lengua.directory</Directory>
+			<Include>
+				<Filename>klavaro.desktop</Filename>
+			</Include>
 		</Menu>
 		<Menu>
 			<Name>Matemática</Name>
 			<Directory>huayra-matematica.directory</Directory>
+			<Include>
+				<Filename>euler.desktop</Filename>
+				<Filename>geogebra.desktop</Filename>
+				<Filename>libreoffice-math.desktop</Filename>
+				<Filename>scilab.desktop</Filename>
+				<Filename>scilab-cli.desktop</Filename>
+				<Filename>scilab-adv-cli.desktop</Filename>
+			</Include>
 		</Menu>
 		<Menu>
 			<Name>Software de Administración de Clases</Name>
@@ -60,6 +78,19 @@
 			<Filename>celestia.desktop</Filename>
 			<Filename>stellarium.desktop</Filename>
 			<Filename>jmol.desktop</Filename>
+			<Filename>gchemcalc-0.14.desktop</Filename>
+			<Filename>euler.desktop</Filename>
+			<Filename>geogebra.desktop</Filename>
+			<Filename>klavaro.desktop</Filename>
+			<Filename>libreoffice-math.desktop</Filename>
+			<Filename>scilab.desktop</Filename>
+			<Filename>scilab-cli.desktop</Filename>
+			<Filename>scilab-adv-cli.desktop</Filename>
+			<Filename>Programa2Mp.desktop</Filename>
+			<Filename>josm.desktop</Filename>
+			<Filename>gchemcalc-0.14.desktop</Filename>
+			<Filename>gchemtable-0.14.desktop</Filename>
+			<Filename>gspectrum-0.14.desktop</Filename>
 		</Exclude>
 	</Menu>
 </Menu>

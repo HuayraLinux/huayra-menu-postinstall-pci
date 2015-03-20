@@ -4,6 +4,6 @@ Exec=xdg-open http://www.encuentro.gov.ar/sitios/encuentro/programas/ver?rec_id=
 Terminal=false
 Type=Application
 StartupNotify=false
-Categories=huayra-lengua
+Categories=huayra-educar-videos
 OnlyShowIn=MATE;
 Icon=/usr/share/pixmaps/educar/ico-usatunet.jpg

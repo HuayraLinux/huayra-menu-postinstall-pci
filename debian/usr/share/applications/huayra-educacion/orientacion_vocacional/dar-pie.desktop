@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Dar Pie
+Name=Dar pie
 Exec=xdg-open http://www.educ.ar/sitios/educar/seccion/?ir=xdarpie
 Terminal=false
 Type=Application

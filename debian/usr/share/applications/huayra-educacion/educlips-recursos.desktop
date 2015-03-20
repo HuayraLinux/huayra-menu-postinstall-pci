@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=EduClips - Recursos educ.ar
+Name=EduClips
 Exec=xdg-open http://www.educ.ar/sitios/educar/recursos/ver?id=123024
 Terminal=false
 Type=Application
