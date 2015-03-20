@@ -3,7 +3,7 @@
 Version=1.0
 Type=Application
 Terminal=false
-Exec=xdg-open http://colecciondemocracia.educ.ar/
-Name=Colección 30 años
+Exec=xdg-open /media/RECURSOS/Coleccion30-aniosdemocracia/Datos/coleccion30anios.html
+Name=Colección 30 años (Sin conexión)
 Icon=/usr/share/pixmaps/educar/ico-coleccion-30-anos.jpg
 Categories=huayra-sociales
