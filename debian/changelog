@@ -1,3 +1,9 @@
+huayra-menu-postinstall-pci (0.8) torbellino; urgency=medium
+
+  * Correcciones de nombres y categorías (educar)
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Fri, 20 Mar 2015 11:35:07 -0300
+
 huayra-menu-postinstall-pci (0.7) torbellino; urgency=medium
 
   * fix categorias e iconos 
