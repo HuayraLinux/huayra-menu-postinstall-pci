@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Filosofía aquí y ahora. Terrorismo de Estado en la Argentina
-Exec=xdg-open "/media/RECURSOS/videos/encuentro/apto-pa-pp-35906 corregido 6_6_13.mp4"
-Terminal=false
-Type=Application
-StartupNotify=false
-Categories=huayra-educar-videos-encuentro
-OnlyShowIn=MATE;
-Icon=vlc

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Type=Application
-Terminal=false
-Exec=xdg-open http://learnenglish.educ.ar/
-Name=Aprender Inglés
-Icon=/usr/share/pixmaps/educar/ico-just-english.jpg
-Categories=huayra-ingles

@@ -19,33 +19,15 @@
 				<Filename>gchemtable-0.14.desktop</Filename>
 				<Filename>gspectrum-0.14.desktop</Filename>
 				<Filename>gchem3d-0.14.desktop</Filename>
+				<Filename>Programa2Mp.desktop</Filename>
 			</Include>
 		</Menu>
 		<Menu>
 			<Name>Ciencias Sociales</Name>
 			<Directory>huayra-sociales.directory</Directory>
-		</Menu>
-		<Menu>
-			<Name>Herramientas de Diagramación</Name>
-			<Directory>huayra-diagramacion.directory</Directory>
-		</Menu>
-		<Menu>
-			<Name>Herramientas de Geolocalización</Name>
-			<Directory>huayra-geocalizacion.directory</Directory>
 			<Include>
 				<Filename>josm.desktop</Filename>
 				<Filename>Programa2Mp.desktop</Filename>
-			</Include>
-		</Menu>
-		<Menu>
-			<Name>Herramientas de Impresión 3D</Name>
-			<Directory>huayra-impresion-3d.directory</Directory>
-		</Menu>
-		<Menu>
-			<Name>Lengua</Name>
-			<Directory>huayra-lengua.directory</Directory>
-			<Include>
-				<Filename>klavaro.desktop</Filename>
 			</Include>
 		</Menu>
 		<Menu>
@@ -61,11 +43,10 @@
 			</Include>
 		</Menu>
 		<Menu>
-			<Name>Software de Administración de Clases</Name>
-			<Directory>huayra-administracion-clases.directory</Directory>
+			<Name>Técnicas de Estudio</Name>
+			<Directory>huayra-tecnica-estudio.directory</Directory>
 			<Include>
-				<Filename>epoptes.desktop</Filename>
-				<Filename>epoptes-client-config.desktop</Filename>
+				<Filename>freemind.desktop</Filename>
 			</Include>
 		</Menu>
 		<Include>

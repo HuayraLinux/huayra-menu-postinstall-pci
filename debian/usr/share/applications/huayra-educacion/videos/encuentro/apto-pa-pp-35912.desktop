@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Historia de los partidos políticos - El radicalismo
-Exec=xdg-open "/media/RECURSOS/videos/encuentro/apto pa-pp-35912.mp4"
-Terminal=false
-Type=Application
-StartupNotify=false
-Categories=huayra-educar-videos-encuentro
-OnlyShowIn=MATE;
-Icon=vlc

@@ -1,3 +1,9 @@
+huayra-menu-postinstall-pci (0.13) unstable; urgency=medium
+
+  * actualización para 2016 
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Wed, 11 May 2016 14:55:54 -0300
+
 huayra-menu-postinstall-pci (0.12) torbellino; urgency=medium
 
   * mas correcciones de menu

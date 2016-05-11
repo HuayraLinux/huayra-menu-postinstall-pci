@@ -1,9 +1,0 @@
-#!/usr/bin/env xdg-open
-[Desktop Entry]
-Version=1.0
-Type=Application
-Terminal=false
-Exec=xdg-open http://colecciondemocracia.educ.ar/
-Name=Colección 30 años
-Icon=/usr/share/pixmaps/educar/ico-coleccion-30-anos.jpg
-Categories=huayra-sociales

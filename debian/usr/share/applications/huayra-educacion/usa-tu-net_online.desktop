@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Usá tu net
-Exec=xdg-open http://www.encuentro.gov.ar/sitios/encuentro/programas/ver?rec_id=116806
-Terminal=false
-Type=Application
-StartupNotify=false
-Categories=huayra-educar-videos
-OnlyShowIn=MATE;
-Icon=/usr/share/pixmaps/educar/ico-usatunet.jpg

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Type=Application
-Terminal=false
-Exec=xdg-open http://mapoteca.educ.ar/
-Name=Mapoteca
-Icon=/usr/share/pixmaps/educar/ico-mapoteca.jpg
-Categories=huayra-sociales

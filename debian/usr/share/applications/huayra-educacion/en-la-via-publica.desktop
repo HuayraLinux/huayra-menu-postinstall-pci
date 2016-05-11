@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=En la vía pública
-Exec=xdg-open http://www.educ.ar/sitios/educar/seccion/?ir=xed_vial_home&referente=estudiantes
-Terminal=false
-Type=Application
-StartupNotify=false
-Categories=huayra-educar
-OnlyShowIn=MATE;
-Icon=/usr/share/pixmaps/educar/ico-enlaviapublica.jpg
