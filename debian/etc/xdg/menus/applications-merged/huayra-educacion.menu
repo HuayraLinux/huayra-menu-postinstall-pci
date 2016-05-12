@@ -20,6 +20,7 @@
 				<Filename>gspectrum-0.14.desktop</Filename>
 				<Filename>gchem3d-0.14.desktop</Filename>
 				<Filename>Programa2Mp.desktop</Filename>
+				<Filename>huayra-simulaciones-interactivas.desktop</Filename>
 			</Include>
 		</Menu>
 		<Menu>
@@ -47,6 +48,15 @@
 			<Directory>huayra-tecnica-estudio.directory</Directory>
 			<Include>
 				<Filename>freemind.desktop</Filename>
+				<Filename>dia.desktop</Filename>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Software de administración de clases</Name>
+			<Directory>huayra-admin-clases.directory</Directory>
+			<Include>
+				<Filename>epoptes.desktop</Filename>
+				<Filename>epoptes-client-config.desktop</Filename>
 			</Include>
 		</Menu>
 		<Include>
