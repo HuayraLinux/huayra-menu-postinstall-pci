@@ -1,3 +1,9 @@
+huayra-menu-postinstall-pci (0.14.2) unstable; urgency=medium
+
+  * fix menu klavaro
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Mon, 06 Jun 2016 12:23:13 -0300
+
 huayra-menu-postinstall-pci (0.14.1) unstable; urgency=medium
 
   * correcciones del menu
